@@ -1,9 +1,10 @@
-# 台灣潮境互動水族箱 — GitHub Pages 版
+# 台灣潮境互動水族箱 — GitHub Pages v12 修正版
 
-1. 在 GitHub 建立新的公開儲存庫。
-2. 將本資料夾中的 `index.html` 與 `README.md` 上傳到儲存庫根目錄。
-3. 進入 **Settings → Pages**。
-4. 在 **Build and deployment** 選擇 **Deploy from a branch**。
-5. Branch 選擇 `main`，資料夾選擇 `/(root)`，按 **Save**。
+這是 2026-08-10 重新核對的版本。
 
-不需要安裝套件或執行建置指令。
+- `FORMOSA · 23.5°N` 右側有金色滑塊膠囊「中文 / EN」切換器
+- 台灣繁體中文系統預設中文，其他語言預設英文
+- 保留魚群追蹤、水母淡入淡出、8 組珊瑚、8 根玄武岩及海底聲音
+- 聲音預設開啟；瀏覽器若阻擋，首次觸碰後播放
+
+將 `index.html` 上傳至 GitHub repository 根目錄，再於 Settings → Pages 開啟即可。
